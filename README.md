@@ -1,0 +1,2 @@
+# SQL
+to learn MySQL
